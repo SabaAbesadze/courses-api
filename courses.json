@@ -1,0 +1,66 @@
+[
+    {
+      "title": "Creative Design Fundamentals",
+      "description": "Learn the basics of graphic design, including typography, color theory, and layout.",
+      "instructor": "Alice Johnson",
+      "price": "$49.99",
+      "duration": "6 weeks"
+    },
+    {
+      "title": "Introduction to Web Development",
+      "description": "An introductory course on HTML, CSS, and JavaScript for building responsive websites.",
+      "instructor": "Bob Smith",
+      "price": "$59.99",
+      "duration": "8 weeks"
+    },
+    {
+      "title": "Advanced JavaScript Techniques",
+      "description": "Deep dive into modern JavaScript features, ES6+, and asynchronous programming.",
+      "instructor": "Carol Davis",
+      "price": "$69.99",
+      "duration": "10 weeks"
+    },
+    {
+      "title": "Digital Marketing Strategies",
+      "description": "Master the art of online marketing, SEO, social media, and content creation.",
+      "instructor": "David Lee",
+      "price": "$39.99",
+      "duration": "5 weeks"
+    },
+    {
+      "title": "UI/UX Design Essentials",
+      "description": "Understand user experience principles and design interfaces that captivate users.",
+      "instructor": "Eva Martinez",
+      "price": "$54.99",
+      "duration": "7 weeks"
+    },
+    {
+      "title": "Data Science for Beginners",
+      "description": "An introductory course to data analysis, statistics, and visualization techniques.",
+      "instructor": "Frank Harris",
+      "price": "$79.99",
+      "duration": "12 weeks"
+    },
+    {
+      "title": "Mobile App Development",
+      "description": "Learn to build mobile applications using native and cross-platform technologies.",
+      "instructor": "Grace Kim",
+      "price": "$89.99",
+      "duration": "10 weeks"
+    },
+    {
+      "title": "Cybersecurity Fundamentals",
+      "description": "Discover essential cybersecurity practices to protect digital assets and information.",
+      "instructor": "Henry Thompson",
+      "price": "$64.99",
+      "duration": "8 weeks"
+    },
+    {
+      "title": "Cloud Computing 101",
+      "description": "Explore cloud technologies, services, and how to deploy scalable applications.",
+      "instructor": "Isabella Nguyen",
+      "price": "$74.99",
+      "duration": "9 weeks"
+    }
+  ]
+  
